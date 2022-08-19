@@ -1,0 +1,9 @@
+.header {
+background-color: #E0C596; width: 500px;
+height: 250px
+}
+
+.footer{
+background-color: #C9C783; width: 500px;
+height: 250px;
+}
